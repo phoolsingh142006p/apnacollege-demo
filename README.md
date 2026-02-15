@@ -1,3 +1,3 @@
 # apnacollege-demo
 This is my first Get repository.
-<br>Auther-phoolsingh.
+<br>Auther-phool(singh)
